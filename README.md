@@ -132,6 +132,10 @@ Transcript record (trimmed):
 }
 ```
 
+## n8n integration
+
+Available as an n8n community node, **[n8n-nodes-earnings-call-transcript-api](https://www.npmjs.com/package/n8n-nodes-earnings-call-transcript-api)**. In n8n: Settings, Community Nodes, install `n8n-nodes-earnings-call-transcript-api`, then use it in any workflow (it also works as an AI Agent tool).
+
 ## Install in Claude Cowork Desktop
 
 ![Install in Claude Cowork Desktop](https://raw.githubusercontent.com/johnisanerd/ApifyPublicData/main/assets/guides/install_mcp_into_claude_desktop.png)
