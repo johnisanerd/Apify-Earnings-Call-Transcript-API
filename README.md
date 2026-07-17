@@ -70,6 +70,42 @@ Advanced: screen every US filer for guidance withdrawals in a date window.
 }
 ```
 
+## Ready-made task pages
+
+Twenty pre-configured task pages, each one click to run with sensible defaults. Open any of them, press Start, and read the JSON from the run's dataset.
+
+**Per-ticker earnings call transcripts** (speaker-tagged turns, analyst Q&A pairs, guidance, sentiment):
+
+- [NVIDIA (NVDA)](https://apify.com/johnvc/earnings-call-transcript-api/examples/nvda-earnings-call-transcript?fpr=9n7kx3)
+- [Apple (AAPL)](https://apify.com/johnvc/earnings-call-transcript-api/examples/aapl-earnings-call-transcript?fpr=9n7kx3)
+- [Microsoft (MSFT)](https://apify.com/johnvc/earnings-call-transcript-api/examples/msft-earnings-call-transcript?fpr=9n7kx3)
+- [Tesla (TSLA)](https://apify.com/johnvc/earnings-call-transcript-api/examples/tsla-earnings-call-transcript?fpr=9n7kx3)
+- [Amazon (AMZN)](https://apify.com/johnvc/earnings-call-transcript-api/examples/amzn-earnings-call-transcript?fpr=9n7kx3)
+- [Meta (META)](https://apify.com/johnvc/earnings-call-transcript-api/examples/meta-earnings-call-transcript?fpr=9n7kx3)
+- [Alphabet (GOOGL)](https://apify.com/johnvc/earnings-call-transcript-api/examples/googl-earnings-call-transcript?fpr=9n7kx3)
+- [AMD](https://apify.com/johnvc/earnings-call-transcript-api/examples/amd-earnings-call-transcript?fpr=9n7kx3)
+- [Netflix (NFLX)](https://apify.com/johnvc/earnings-call-transcript-api/examples/nflx-earnings-call-transcript?fpr=9n7kx3)
+- [Broadcom (AVGO)](https://apify.com/johnvc/earnings-call-transcript-api/examples/avgo-earnings-call-transcript?fpr=9n7kx3)
+
+**8-K item-code trackers** (parsed events for a watchlist, with EDGAR links):
+
+- [SEC 8-K Item 5.02 Executive Departure Tracker](https://apify.com/johnvc/earnings-call-transcript-api/examples/sec-8k-executive-departure-tracker?fpr=9n7kx3)
+- [SEC 8-K Cybersecurity Incident Monitor (1.05)](https://apify.com/johnvc/earnings-call-transcript-api/examples/sec-8k-cybersecurity-incident-monitor?fpr=9n7kx3)
+- [SEC 8-K Item 2.02 Earnings Release Feed](https://apify.com/johnvc/earnings-call-transcript-api/examples/sec-8k-earnings-release-feed?fpr=9n7kx3)
+- [SEC 8-K Material Events Watchlist Monitor](https://apify.com/johnvc/earnings-call-transcript-api/examples/sec-8k-material-events-monitor?fpr=9n7kx3)
+
+**Cross-company crisis screeners** (full-text search across every US filer):
+
+- [Material Weakness Disclosure Screener](https://apify.com/johnvc/earnings-call-transcript-api/examples/material-weakness-disclosure-screener?fpr=9n7kx3)
+- [Going Concern Warning Screener](https://apify.com/johnvc/earnings-call-transcript-api/examples/going-concern-warning-screener?fpr=9n7kx3)
+- [Guidance Withdrawal Screener](https://apify.com/johnvc/earnings-call-transcript-api/examples/guidance-withdrawal-screener?fpr=9n7kx3)
+- [Financial Restatement Screener](https://apify.com/johnvc/earnings-call-transcript-api/examples/financial-restatement-screener?fpr=9n7kx3)
+
+**Ready-to-use datasets:**
+
+- [Earnings Call Q&A Pairs Dataset for LLM & RAG](https://apify.com/johnvc/earnings-call-transcript-api/examples/earnings-call-qa-dataset-llm-rag?fpr=9n7kx3)
+- [Earnings Guidance Monitor (Calls & 8-K)](https://apify.com/johnvc/earnings-call-transcript-api/examples/earnings-guidance-monitor?fpr=9n7kx3)
+
 ## Input Parameters
 
 | Parameter | Type | Required | Default | Description |
@@ -262,4 +298,4 @@ More help: https://docs.apify.com/platform/integrations/mcp
 
 Made with care by [John on Apify](https://apify.com/johnvc?fpr=9n7kx3).
 
-Last Updated: 2026.07.06
+Last Updated: 2026.07.14
