@@ -298,4 +298,4 @@ More help: https://docs.apify.com/platform/integrations/mcp
 
 Made with care by [John on Apify](https://apify.com/johnvc?fpr=9n7kx3).
 
-Last Updated: 2026.07.22
+Last Updated: 2026.07.24
