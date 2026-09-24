@@ -298,4 +298,15 @@ More help: https://docs.apify.com/platform/integrations/mcp
 
 Made with care by [John on Apify](https://apify.com/johnvc?fpr=9n7kx3).
 
+<!-- ask-ai:start -->
+## 🤖 Ask an AI assistant about this Actor
+
+Open a ready-to-send prompt about the Earnings Call Transcript API in the AI of your choice:
+
+- 💬 [ChatGPT](https://chatgpt.com/?q=Using%20the%20Earnings%20Call%20Transcript%20API%20on%20Apify%20%28https://apify.com/johnvc/earnings-call-transcript-api?fpr=9n7kx3%29%2C%20walk%20me%20through%20this%20use%20case:%20%22SEC%20EDGAR%208-K%20Filings%20API%20by%20Ticker%22.%20Show%20me%20the%20input%20JSON%2C%20the%20output%20fields%2C%20and%20how%20to%20automate%20it%20with%20the%20API%20or%20MCP.)
+- 🧠 [Claude](https://claude.ai/new?q=Using%20the%20Earnings%20Call%20Transcript%20API%20on%20Apify%20%28https://apify.com/johnvc/earnings-call-transcript-api?fpr=9n7kx3%29%2C%20walk%20me%20through%20this%20use%20case:%20%22SEC%20EDGAR%208-K%20Filings%20API%20by%20Ticker%22.%20Show%20me%20the%20input%20JSON%2C%20the%20output%20fields%2C%20and%20how%20to%20automate%20it%20with%20the%20API%20or%20MCP.)
+- 🔍 [Perplexity](https://www.perplexity.ai/search?q=Using%20the%20Earnings%20Call%20Transcript%20API%20on%20Apify%20%28https://apify.com/johnvc/earnings-call-transcript-api?fpr=9n7kx3%29%2C%20walk%20me%20through%20this%20use%20case:%20%22SEC%20EDGAR%208-K%20Filings%20API%20by%20Ticker%22.%20Show%20me%20the%20input%20JSON%2C%20the%20output%20fields%2C%20and%20how%20to%20automate%20it%20with%20the%20API%20or%20MCP.)
+- 🅒 [Copilot](https://copilot.microsoft.com/?q=Using%20the%20Earnings%20Call%20Transcript%20API%20on%20Apify%20%28https://apify.com/johnvc/earnings-call-transcript-api?fpr=9n7kx3%29%2C%20walk%20me%20through%20this%20use%20case:%20%22SEC%20EDGAR%208-K%20Filings%20API%20by%20Ticker%22.%20Show%20me%20the%20input%20JSON%2C%20the%20output%20fields%2C%20and%20how%20to%20automate%20it%20with%20the%20API%20or%20MCP.)
+<!-- ask-ai:end -->
+
 Last Updated: 2026.07.14
